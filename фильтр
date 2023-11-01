@@ -1,2 +1,2 @@
 git log --author=KarinaKireeva
-
+git log --until 2022-11-01
